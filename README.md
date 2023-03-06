@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm aspiring developer, passionate about learning, data analysis and finance. My expertise lies in HTML, CSS and Javascript.
+I'm aspiring developer, passionate about learning, data analysis and finance. My expertise lies in HTML, CSS and JavaScript.
 
 I am currently learning and gaining experience on building responsive and user-friendly web pages. I like making clear and easy to use sites and apps, and delivering a simple and joyful experience to the end user. 
 
