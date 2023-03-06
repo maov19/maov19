@@ -11,5 +11,5 @@ I find joy in learning and growing new skills. On this path, I found out that co
 
 If you're looking for a team player that likes challenges, rock, and cats: you found it.
 
-Let's connect and build something great.
+Let's connect. Let's build something great together.
 -->
